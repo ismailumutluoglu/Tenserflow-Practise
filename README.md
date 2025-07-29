@@ -1,4 +1,4 @@
-# Tenserflow-Practise
+é# Tenserflow-Practise
 
 Python Tenserflow kütüphanesi çalışmalarım
 
